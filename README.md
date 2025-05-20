@@ -13,7 +13,7 @@
   <!-- Languages -->
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="64" height="64" alt="Java" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" alt="Python" /></span>
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="64" height="64" alt="C++" /></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="64" width="64" alt="C++" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" alt="C" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="64" height="64" alt="C#" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" alt="JavaScript" /></span>
@@ -27,7 +27,6 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="64" height="64" alt="Azure" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" alt="Git" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="64" height="64" alt="Jupyter Notebook" /></span>
-  <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" width="64" height="64" alt="eclipse" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="64" height="64" alt="Embedded C" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="64" height="64" alt="Raspberry Pi" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="64" height="64" alt="Arduino" /></span>
