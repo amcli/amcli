@@ -39,6 +39,10 @@
   
 </p>
 
+# Projects
+
+I'm currently working on a Top-Down Unity game, as well as a personal portfolio website! Both are in-progress and will be finished soon.
+
 ---
 
 ### 📫 Contact me!
