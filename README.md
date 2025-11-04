@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Andrew!
 
-#### ✨I'm an 18-year-old 1B Computer Engineering student at the University of Waterloo who's passionate about Game Development, Full-Stack Development, and AI/ML.
+#### ✨I'm an 18-year-old 2A Computer Engineering student at the University of Waterloo who's passionate about Game Development, Full-Stack Development, and AI/ML.
 
-- 💼 Currently looking for Fall 2025 Internships!
+- 💼 Currently looking for Summer 2026 Internships!
 - 🌱 In my free time, I like to read, play basketball, cook, and develop games.
 
 ---
