@@ -2,7 +2,7 @@
 
 #### ✨I'm a 19-year-old 2A Computer Engineering student at the University of Waterloo who's passionate about Game Development, Full-Stack, Embedded, and AI/ML.
 
-- 💼 Currently looking for Summer 2026 Internships!
+- 💼 Currently looking for a Spring 2027 internship!
 - 🌱 In my free time, I like to read, play basketball, cook, and develop games. I'm also working on a novel!
 
 ---
