@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Andrew!
 
-#### ✨I'm a 19-year-old 2A Computer Engineering student at the University of Waterloo who's passionate about Game Development, Full-Stack, Embedded, and AI/ML.
+#### ✨I'm a 19-year-old third-year Computer Engineering student at the University of Waterloo who's passionate about Game Development, Full-Stack, Embedded, and AI/ML.
 
 - 💼 Currently looking for a Spring 2027 internship!
-- 🌱 In my free time, I like to read, play basketball, cook, and develop games. I'm also working on a novel!
+- 🌱 In my free time, I like to read/write, play basketball, cook, and develop games. I'm also working on a novel!
 
 ---
 
@@ -36,6 +36,7 @@
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="64" height="64" alt="React" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="64" height="64" alt="Tailwind CSS" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="64" height="64" alt="PyTorch"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="64" height="64" alt="FastAPI"/></span>
   
 </p>
 
