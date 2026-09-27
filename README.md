@@ -42,7 +42,7 @@
 
 # Projects
 
-I'm currently working on a Top-Down Unity game, as well as a personal portfolio website!
+I'm currently working on my portfolio website and an Arknights base optimizer with Rust!
 
 ---
 
