@@ -11,22 +11,23 @@
 
 <p>
   <!-- Languages -->
-  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="64" height="64" alt="Java" /></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" alt="TypeScript" /></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65" alt="JavaScript" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64" alt="Python" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="64" width="64" alt="C++" /></span>
+  <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="64" height="64" alt="Java" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64" alt="C" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="64" height="64" alt="C#" /></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" alt="JavaScript" /></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="64" height="64" alt="MySQL" /></span>
   <span><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rust.svg" width="64" height="64" alt="Rust"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="64" height="64" alt="MySQL" /></span>
   
   <!-- Tools, Platforms, Hardware -->
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" alt="Git" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="64" height="64" alt="Unity" /></span>
   <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" width="64" height="64" alt="Godot" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="64" height="64" alt="HTML5" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="64" height="64" alt="CSS3" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="64" height="64" alt="Azure" /></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="64" height="64" alt="Git" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="64" height="64" alt="Jupyter Notebook" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="64" height="64" alt="Embedded C" /></span>
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="64" height="64" alt="Raspberry Pi" /></span>
@@ -35,9 +36,10 @@
 
   <!-- Frameworks & Libraries -->
   <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="64" height="64" alt="React" /></span>
+  <span><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" width="64" height="64" alt="PostgreSQL"/></span>
+  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="64" height="64" alt="FastAPI"/></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="64" height="64" alt="Tailwind CSS" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="64" height="64" alt="PyTorch"/></span>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="64" height="64" alt="FastAPI"/></span>
   
 </p>
 
