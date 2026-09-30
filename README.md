@@ -19,6 +19,7 @@
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65" alt="JavaScript" /></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="64" height="64" alt="MySQL" /></span>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rust.svg" width="64" height="64" alt="Rust"/>
+  
   <!-- Tools, Platforms, Hardware -->
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="64" height="64" alt="Unity" /></span>
   <span><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png" width="64" height="64" alt="Godot" /></span>
